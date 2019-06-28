@@ -1,0 +1,2 @@
+Hello
+Attending the DevOps session
